@@ -1,5 +1,3 @@
-<p align="center"><a href="https://jewelcodes.io/" target="_blank"><img src="https://jewelcodes.io/res/images/avatar.png"></a></p>
-
 I'm Omar Elghoul, aka Jewel, a 21-year-old undergraduate biotechnology senior from Cairo, Egypt. I'm passionate about computers and I self-taught ever since I was as young as 12 or 13, and I'm planning to pursue postgraduate studies in machine learning. Read my blog and see some of my recent projects over [here](https://jewelcodes.io/). c:
 
 ## Fields of interest
