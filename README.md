@@ -1,4 +1,4 @@
-I'm Omar Elghoul, aka Jewel, a 21-year-old biotech fresh graduate from Cairo, Egypt residing in Boston, MA. I'm passionate about computers and I self-taught ever since I was as young as 12 or 13, and I'm planning to pursue postgraduate studies in machine learning. Read my blog and see some of my recent projects over [here](https://jewelcodes.io/). c:
+I'm Omar Elghoul, aka Jewel, a 22-year-old biotech fresh graduate from Cairo, Egypt residing in Boston, MA. I'm passionate about computers and I self-taught ever since I was as young as 12 or 13, and I'm planning to pursue postgraduate studies in machine learning. Read my blog and see some of my recent projects over [here](https://jewelcodes.io/). c:
 
 ## Fields of interest
 * 🧠 Artificial intelligence and machine learning
