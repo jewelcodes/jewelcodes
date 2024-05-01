@@ -2,7 +2,7 @@ I'm Omar Elghoul, aka Jewel, a 22-year-old junior software engineer from Cairo, 
 
 ## Areas of interest
 * 👨‍💻 Full stack development
-* 🛠️ Computer hardware, OSes, and systems programming
+* 🛠️ Hardware, OSes, and systems programming
 * 🧠 Machine learning and AI
 * 📊 Data science
 * 🧬 Bioinformatics
