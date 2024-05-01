@@ -2,11 +2,11 @@ I'm Omar Elghoul, aka Jewel, a 22-year-old junior software engineer from Cairo, 
 
 ## Areas of interest
 * 👨‍💻 Full stack development
+* 🛠️ OSes and systems programming
 * 🧠 Machine learning and AI
 * 📊 Data science
 * 🧬 Bioinformatics
 * 🌍 Ecology and ecological modeling
-* 🛠️ Systems programming
 
 | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jewelcodes&show_icons=true&theme=transparent&hide=prs,contribs&hide_border=true"></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewelcodes&theme=transparent&layout=compact&hide_border=true&size_weight=1&count_weight=0.8"></a> |
 | ----------- | ----------- |
