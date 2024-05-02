@@ -1,4 +1,4 @@
-I'm Omar Elghoul, aka Jewel, a 22-year-old junior software engineer from Cairo, Egypt residing in Boston, MA. I'm passionate about computers and I self-taught ever since I was as young as 12 or 13, and I'm currently pursuing a master's degree. Read my blog and see some of my recent projects over on [jewelcodes.io](https://jewelcodes.io/). c:
+I'm Omar Elghoul, aka Jewel, a 22-year-old junior software engineer from Cairo, Egypt residing in Boston, MA. I'm passionate about computers and I self-taught ever since I was as young as 12 or 13. I'm currently pursuing a master's in computer science. Read my blog and see some of my recent projects over on [jewelcodes.io](https://jewelcodes.io/). c:
 
 ## Areas of interest
 * 👨‍💻 Full stack development
